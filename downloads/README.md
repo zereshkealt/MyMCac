@@ -1,10 +1,6 @@
-# Downloads
+# Downloaded list :
 
----
-
-## NO FILE DOWNLOADED YET!
-
-Use the download workflows to add files here.
+- [gemma-3-12b-it-qat-UD-Q4_K_XL](./gemma-3-12b-it-qat-UD-Q4_K_XL)
 
 ---
 
