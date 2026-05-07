@@ -1,9 +1,8 @@
-# Downloads
+# Downloaded list :
+
+- [Qwen3.6-27B-Uncensored-HauhauCS-Aggressive-IQ2_M](./Qwen3.6-27B-Uncensored-HauhauCS-Aggressive-IQ2_M)
+- [one-obsession-12illustrious20-sdxl](./one-obsession-12illustrious20-sdxl)
 
 ---
 
-## NO FILE DOWNLOADED YET!
-
-Use the download workflows to add files here.
-
----
+*This tool created by [avasam.ir](https://avasam.ir)*
