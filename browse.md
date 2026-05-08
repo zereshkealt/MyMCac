@@ -27,3 +27,4 @@
 - [https___www_youtube_com_watch_v_R_V6QEnsszg (20260508_225230)](pages/youtube.com/https___www_youtube_com_watch_v_R_V6QEnsszg/20260508_225230/index.md) — 5 media files
 - [https___huggingface_co_vantagewithai (20260508_231732)](pages/huggingface.co/https___huggingface_co_vantagewithai/20260508_231732/index.md) — 3 media files
 - [https___huggingface_co_vantagewithai_LTX_2_3_GGUF_blob_main_dev_ (20260508_232135)](pages/huggingface.co/https___huggingface_co_vantagewithai_LTX_2_3_GGUF_blob_main_dev_/20260508_232135/index.md) — 0 media files
+- [https___huggingface_co_vantagewithai_Sulphur_2_Base_GGUF (20260508_232912)](pages/huggingface.co/https___huggingface_co_vantagewithai_Sulphur_2_Base_GGUF/20260508_232912/index.md) — 1 media files
