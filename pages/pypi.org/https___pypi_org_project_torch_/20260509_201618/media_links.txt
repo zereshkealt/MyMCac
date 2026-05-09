@@ -1,2 +1,0 @@
-https://pypi.org/static/images/blue-cube.572a5bfb.svg
-https://pypi.org/static/images/white-cube.2351a86c.svg
