@@ -34,3 +34,4 @@
 - [https___download_pytorch_org_whl_cu118_torch_ (20260509_232300)](pages/download.pytorch.org/https___download_pytorch_org_whl_cu118_torch_/20260509_232300/index.md) — 0 media files
 - [https___download_pytorch_org_whl_torchvision_ (20260510_144729)](pages/download.pytorch.org/https___download_pytorch_org_whl_torchvision_/20260510_144729/index.md) — 0 media files
 - [https___download_pytorch_org_whl_cu118_pytorch_triton_rocm_ (20260510_200931)](pages/download.pytorch.org/https___download_pytorch_org_whl_cu118_pytorch_triton_rocm_/20260510_200931/index.md) — 0 media files
+- [https___download_pytorch_org_whl_cu118_torchvision_ (20260510_201013)](pages/download.pytorch.org/https___download_pytorch_org_whl_cu118_torchvision_/20260510_201013/index.md) — 0 media files
