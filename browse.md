@@ -32,3 +32,4 @@
 - [https___pypi_org_project_torch_ (20260509_201618)](pages/pypi.org/https___pypi_org_project_torch_/20260509_201618/index.md) — 2 media files
 - [https___download_pytorch_org_whl_cu118 (20260509_202245)](pages/download.pytorch.org/https___download_pytorch_org_whl_cu118/20260509_202245/index.md) — 0 media files
 - [https___download_pytorch_org_whl_cu118_torch_ (20260509_232300)](pages/download.pytorch.org/https___download_pytorch_org_whl_cu118_torch_/20260509_232300/index.md) — 0 media files
+- [https___download_pytorch_org_whl_torchvision_ (20260510_144729)](pages/download.pytorch.org/https___download_pytorch_org_whl_torchvision_/20260510_144729/index.md) — 0 media files
