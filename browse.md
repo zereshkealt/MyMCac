@@ -37,3 +37,4 @@
 - [https___download_pytorch_org_whl_cu118_torchvision_ (20260510_201013)](pages/download.pytorch.org/https___download_pytorch_org_whl_cu118_torchvision_/20260510_201013/index.md) — 0 media files
 - [http___download_pytorch_org_whl_cu118_torchaudio_ (20260510_204730)](pages/download.pytorch.org/http___download_pytorch_org_whl_cu118_torchaudio_/20260510_204730/index.md) — 0 media files
 - [https___huggingface_co_bartowski_DeepSeek_Coder_V2_Lite_Base_GGUF (20260511_143858)](pages/huggingface.co/https___huggingface_co_bartowski_DeepSeek_Coder_V2_Lite_Base_GGUF/20260511_143858/index.md) — 1 media files
+- [https___huggingface_co_antirez_deepseek_v4_gguf (20260511_144527)](pages/huggingface.co/https___huggingface_co_antirez_deepseek_v4_gguf/20260511_144527/index.md) — 0 media files
