@@ -50,3 +50,4 @@
 - [https___huggingface_co_John6666_one_obsession_12illustrious20_sdxl_tree_main (20260512_132530)](pages/huggingface.co/https___huggingface_co_John6666_one_obsession_12illustrious20_sdxl_tree_main/20260512_132530/index.md) — 1 media files
 - [https___huggingface_co_LeonJoe13_Sonic_blob_RIFE_ (20260512_133740)](pages/huggingface.co/https___huggingface_co_LeonJoe13_Sonic_blob_RIFE_/20260512_133740/index.md) — 0 media files
 - [https___huggingface_co_John6666_one_obsession_12illustrious20_sdxl_tree_main_unet_ (20260512_183155)](pages/huggingface.co/https___huggingface_co_John6666_one_obsession_12illustrious20_sdxl_tree_main_unet_/20260512_183155/index.md) — 1 media files
+- [https___huggingface_co_John6666 (20260512_194312)](pages/huggingface.co/https___huggingface_co_John6666/20260512_194312/index.md) — 11 media files
