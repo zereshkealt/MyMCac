@@ -56,3 +56,4 @@
 - [https___huggingface_co_John6666_models (20260512_204500)](pages/huggingface.co/https___huggingface_co_John6666_models/20260512_204500/index.md) — 9 media files
 - [https___huggingface_co_John6666_20260512_204500_page_html_p_1 (20260512_211143)](pages/huggingface.co/https___huggingface_co_John6666_20260512_204500_page_html_p_1/20260512_211143/index.md) — 0 media files
 - [https___huggingface_co_OneObsession_oneObsession_v21 (20260512_213512)](pages/huggingface.co/https___huggingface_co_OneObsession_oneObsession_v21/20260512_213512/index.md) — 0 media files
+- [https___huggingface_co_DeepBeepMeep_Wan2_1_blob_main (20260512_214706)](pages/huggingface.co/https___huggingface_co_DeepBeepMeep_Wan2_1_blob_main/20260512_214706/index.md) — 0 media files
