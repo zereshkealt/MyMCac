@@ -53,3 +53,4 @@
 - [https___huggingface_co_John6666 (20260512_194312)](pages/huggingface.co/https___huggingface_co_John6666/20260512_194312/index.md) — 11 media files
 - [https___huggingface_co_datasets_John6666_sdxl_backup_202502 (20260512_201140)](pages/huggingface.co/https___huggingface_co_datasets_John6666_sdxl_backup_202502/20260512_201140/index.md) — 1 media files
 - [https___huggingface_co_John6666_datasets (20260512_202804)](pages/huggingface.co/https___huggingface_co_John6666_datasets/20260512_202804/index.md) — 8 media files
+- [https___huggingface_co_John6666_models (20260512_204500)](pages/huggingface.co/https___huggingface_co_John6666_models/20260512_204500/index.md) — 9 media files
