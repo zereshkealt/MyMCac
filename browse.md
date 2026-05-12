@@ -38,3 +38,4 @@
 - [http___download_pytorch_org_whl_cu118_torchaudio_ (20260510_204730)](pages/download.pytorch.org/http___download_pytorch_org_whl_cu118_torchaudio_/20260510_204730/index.md) — 0 media files
 - [https___huggingface_co_bartowski_DeepSeek_Coder_V2_Lite_Base_GGUF (20260511_143858)](pages/huggingface.co/https___huggingface_co_bartowski_DeepSeek_Coder_V2_Lite_Base_GGUF/20260511_143858/index.md) — 1 media files
 - [https___huggingface_co_antirez_deepseek_v4_gguf (20260511_144527)](pages/huggingface.co/https___huggingface_co_antirez_deepseek_v4_gguf/20260511_144527/index.md) — 0 media files
+- [https___learn_microsoft_com_en_us_visualstudio_install_create_an_offline_installation_of_visual_stud (20260512_111502)](pages/learn.microsoft.com/https___learn_microsoft_com_en_us_visualstudio_install_create_an_offline_installation_of_visual_stud/20260512_111502/index.md) — 0 media files
