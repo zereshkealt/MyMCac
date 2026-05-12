@@ -45,3 +45,4 @@
 - [https___huggingface_co_John6666_one_obsession_12illustrious20_sdxl_John6666_one_obsession_noob_v2_ma (20260512_115853)](pages/huggingface.co/https___huggingface_co_John6666_one_obsession_12illustrious20_sdxl_John6666_one_obsession_noob_v2_ma/20260512_115853/index.md) — 0 media files
 - [https___huggingface_co_John6666_one_obsession_12illustrious20_sdxl_main (20260512_120623)](pages/huggingface.co/https___huggingface_co_John6666_one_obsession_12illustrious20_sdxl_main/20260512_120623/index.md) — 0 media files
 - [https___huggingface_co_John6666_one_obsession_12illustrious20_sdxl_main (20260512_122221)](pages/huggingface.co/https___huggingface_co_John6666_one_obsession_12illustrious20_sdxl_main/20260512_122221/index.md) — 0 media files
+- [https___huggingface_co_vantagewithai_Sulphur_2_Base_GGUF_blob_main_ (20260512_131429)](pages/huggingface.co/https___huggingface_co_vantagewithai_Sulphur_2_Base_GGUF_blob_main_/20260512_131429/index.md) — 0 media files
