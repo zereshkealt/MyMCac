@@ -1,0 +1,60 @@
+# Visited: https://huggingface.co/Comfy-Org/ltx-2/tree/main/split_files/text_encoders
+**Time:** Wed May 13 17:17:41 UTC 2026
+
+## Screenshot
+![Screenshot](./screenshot.png)
+
+## Raw HTML
+[page.html](./page.html)
+
+## Downloaded Media (4 files)
+## Downloaded Media Files
+
+![bsDc8lR72KhKvm-wXxYsv.png](./media/bsDc8lR72KhKvm-wXxYsv.png)
+![hr-fUccqYPlTfmfKgoZAO.png](./media/hr-fUccqYPlTfmfKgoZAO.png)
+![VefuK05EQOWbvSkf8IBBq.png](./media/VefuK05EQOWbvSkf8IBBq.png)
+![IkvzlMZnY5P6ZsFMvhE1j.png](./media/IkvzlMZnY5P6ZsFMvhE1j.png)
+
+## Other Links
+- [/](/)
+- [/Comfy-Org](/Comfy-Org)
+- [/Comfy-Org/ltx-2](/Comfy-Org/ltx-2)
+- [/Comfy-Org/ltx-2/blob/main/split_files/text_encoders/gemma_3_12B_it.safetensors](/Comfy-Org/ltx-2/blob/main/split_files/text_encoders/gemma_3_12B_it.safetensors)
+- [/Comfy-Org/ltx-2/blob/main/split_files/text_encoders/gemma_3_12B_it_fp4_mixed.safetensors](/Comfy-Org/ltx-2/blob/main/split_files/text_encoders/gemma_3_12B_it_fp4_mixed.safetensors)
+- [/Comfy-Org/ltx-2/blob/main/split_files/text_encoders/gemma_3_12B_it_fp8_scaled.safetensors](/Comfy-Org/ltx-2/blob/main/split_files/text_encoders/gemma_3_12B_it_fp8_scaled.safetensors)
+- [/Comfy-Org/ltx-2/blob/main/split_files/text_encoders/gemma_3_12B_it_fpmixed.safetensors](/Comfy-Org/ltx-2/blob/main/split_files/text_encoders/gemma_3_12B_it_fpmixed.safetensors)
+- [/Comfy-Org/ltx-2/commit/987efb45eef78c995b99929108716a35a0ae8171](/Comfy-Org/ltx-2/commit/987efb45eef78c995b99929108716a35a0ae8171)
+- [/Comfy-Org/ltx-2/commit/cb2cbd87dc64572ab25f8bc0a7c18034d75a6ce6](/Comfy-Org/ltx-2/commit/cb2cbd87dc64572ab25f8bc0a7c18034d75a6ce6)
+- [/Comfy-Org/ltx-2/commit/ce17c1c2f19caa7f2f27d1d6109ca8bd864bdf47](/Comfy-Org/ltx-2/commit/ce17c1c2f19caa7f2f27d1d6109ca8bd864bdf47)
+- [/Comfy-Org/ltx-2/commit/fff639871e076110fc09c4cc43353c82a1b15ef1](/Comfy-Org/ltx-2/commit/fff639871e076110fc09c4cc43353c82a1b15ef1)
+- [/Comfy-Org/ltx-2/commits/main/split_files/text_encoders](/Comfy-Org/ltx-2/commits/main/split_files/text_encoders)
+- [/Comfy-Org/ltx-2/discussions](/Comfy-Org/ltx-2/discussions)
+- [/Comfy-Org/ltx-2/resolve/main/split_files/text_encoders/gemma_3_12B_it.safetensors?download=true](/Comfy-Org/ltx-2/resolve/main/split_files/text_encoders/gemma_3_12B_it.safetensors?download=true)
+- [/Comfy-Org/ltx-2/resolve/main/split_files/text_encoders/gemma_3_12B_it_fp4_mixed.safetensors?download=true](/Comfy-Org/ltx-2/resolve/main/split_files/text_encoders/gemma_3_12B_it_fp4_mixed.safetensors?download=true)
+- [/Comfy-Org/ltx-2/resolve/main/split_files/text_encoders/gemma_3_12B_it_fp8_scaled.safetensors?download=true](/Comfy-Org/ltx-2/resolve/main/split_files/text_encoders/gemma_3_12B_it_fp8_scaled.safetensors?download=true)
+- [/Comfy-Org/ltx-2/resolve/main/split_files/text_encoders/gemma_3_12B_it_fpmixed.safetensors?download=true](/Comfy-Org/ltx-2/resolve/main/split_files/text_encoders/gemma_3_12B_it_fpmixed.safetensors?download=true)
+- [/Comfy-Org/ltx-2/tree/main](/Comfy-Org/ltx-2/tree/main)
+- [/Comfy-Org/ltx-2/tree/main/split_files](/Comfy-Org/ltx-2/tree/main/split_files)
+- [/comfyanonymous](/comfyanonymous)
+- [/datasets](/datasets)
+- [/docs](/docs)
+- [/enterprise](/enterprise)
+- [/front/build/kube-1daa235/style.css](/front/build/kube-1daa235/style.css)
+- [/join](/join)
+- [/js/script.js](/js/script.js)
+- [/login](/login)
+- [/models](/models)
+- [/models?other=comfyui](/models?other=comfyui)
+- [/pricing](/pricing)
+- [/spaces](/spaces)
+- [/storage](/storage)
+- [https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/katex.min.css](https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/katex.min.css)
+- [https://de5282c3ca0c.edge.sdk.awswaf.com/de5282c3ca0c/526cf06acb0d/challenge.js](https://de5282c3ca0c.edge.sdk.awswaf.com/de5282c3ca0c/526cf06acb0d/challenge.js)
+- [https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600;700&display=swap](https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600;700&display=swap)
+- [https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;1,200;1,300;1,400;1,600;1,700&display=swap](https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;1,200;1,300;1,400;1,600;1,700&display=swap)
+- [https://fonts.gstatic.com](https://fonts.gstatic.com)
+- [https://huggingface.co/Comfy-Org/ltx-2/tree/main/split_files/text_encoders](https://huggingface.co/Comfy-Org/ltx-2/tree/main/split_files/text_encoders)
+
+## Stats
+- Links: 44
+- Media: 4
