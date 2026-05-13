@@ -58,3 +58,4 @@
 - [https___huggingface_co_OneObsession_oneObsession_v21 (20260512_213512)](pages/huggingface.co/https___huggingface_co_OneObsession_oneObsession_v21/20260512_213512/index.md) — 0 media files
 - [https___huggingface_co_DeepBeepMeep_Wan2_1_blob_main (20260512_214706)](pages/huggingface.co/https___huggingface_co_DeepBeepMeep_Wan2_1_blob_main/20260512_214706/index.md) — 0 media files
 - [https___huggingface_co_latent_consistency_lcm_lora_sdxl (20260512_223949)](pages/huggingface.co/https___huggingface_co_latent_consistency_lcm_lora_sdxl/20260512_223949/index.md) — 5 media files
+- [https___bitawastaken_itch_io_living_with_tsunade (20260513_131126)](pages/bitawastaken.itch.io/https___bitawastaken_itch_io_living_with_tsunade/20260513_131126/index.md) — 37 media files
