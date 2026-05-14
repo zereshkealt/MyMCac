@@ -1,0 +1,15 @@
+https://cdn.prod.website-files.com/65bb6b901cb133d784d16166/66a7747c67052b0de27530c0_Placeholder%20Image%20-%20Landscape.svg
+https://cdn.prod.website-files.com/68872d15af29880764eac4aa/69445617becf4761ee3d478b_ltx-logo.svg
+https://cdn.prod.website-files.com/68872d15af29880764eac4aa/695c06aa63b560e217a68363_LTX_2_Technical_Report_compressed.pdf
+https://cdn.prod.website-files.com/68872d15af29880764eac4aa/6982091f71fd2f946ca88f53_ltx-favicon-256x256.png
+https://cdn.prod.website-files.com/68872d15af29880764eac4aa/69820924b22548a6eaa672df_ltx-favicon-32x32.png
+https://cdn.prod.website-files.com/68c6ddbeb26cbd692adc0291/69761ed1a9e7ed6e5a26659b_ltx.svg
+https://cdn.prod.website-files.com/68c6ddbeb26cbd692adc0291/699b0e624a3becea45d71123_reduce-warbles-artifacts.webp
+https://cdn.prod.website-files.com/68c6ddbeb26cbd692adc0291/699b11f94b9f5cb96f53d2d3_workflow-mode.webp
+https://cdn.prod.website-files.com/68c6ddbeb26cbd692adc0291/699b121d7e912821bdb2e989_ic-lora-configuration.webp
+https://cdn.prod.website-files.com/68c6ddbeb26cbd692adc0291/699b12537e912821bdb2ec88_style-focused-prompt.webp
+https://cdn.prod.website-files.com/68c6ddbeb26cbd692adc0291/699b127609eef7ed815bb675_test-iterate.webp
+https://cdn.prod.website-files.com/68c6ddbeb26cbd692adc0291/699b12a10f934b427cecad83_shorten-clip-length.webp
+https://cdn.prod.website-files.com/68c6ddbeb26cbd692adc0291/699b12e6c4124e158159c093_motion-references.webp
+https://static.lightricks.com/legal/CPRA%20Notice%20-%20UPLOADED.pdf
+https://static.lightricks.com/legal/Privacy%20Policy%20-%20LTX%20Platform.pdf
