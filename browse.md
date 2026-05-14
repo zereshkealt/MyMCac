@@ -4,3 +4,4 @@
 - [https___ltx_io_model_model_blog_how_to_reduce_warble_and_ai_pattern_artifacts_in_ltx_2 (20260514_131510)](pages/ltx.io/https___ltx_io_model_model_blog_how_to_reduce_warble_and_ai_pattern_artifacts_in_ltx_2/20260514_131510/index.md) — 15 media files
 - [https___huggingface_co_vantagewithai_Sulphur_2_Base_GGUF_tree_main (20260514_132116)](pages/huggingface.co/https___huggingface_co_vantagewithai_Sulphur_2_Base_GGUF_tree_main/20260514_132116/index.md) — 1 media files
 - [https___huggingface_co_vantagewithai_Sulphur_2_Base_GGUF (20260514_132204)](pages/huggingface.co/https___huggingface_co_vantagewithai_Sulphur_2_Base_GGUF/20260514_132204/index.md) — 1 media files
+- [https___huggingface_co_Lightricks_LTX_2_3_fp8 (20260514_134551)](pages/huggingface.co/https___huggingface_co_Lightricks_LTX_2_3_fp8/20260514_134551/index.md) — 2 media files
